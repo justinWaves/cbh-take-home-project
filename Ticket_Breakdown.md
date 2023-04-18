@@ -39,9 +39,7 @@ Add a new input field to the web app interface for Facilities to input custom id
 Update the Agent model to include the new custom id field.
 Update the API endpoints to save and retrieve the custom id from the database.
 
-# Ticket 2:
-
-Use custom ids in report generation
+# Ticket 2: Use custom ids in report generation
 
 ### Description:
 
